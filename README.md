@@ -23,11 +23,11 @@ Para esta práctica se ha continuado la el trabajo realizado en la práctica ant
 Y se ha añadido el script `FollowPlayer.cs` para que la cámara siga al jugador desde una perspectiva de tercera persona. Aparte de varios aspectos visuales.  
 + Anteriormente
 
-![](https://drive.google.com/uc?export=view&id=1vhZTqvbe2MxUTSLRLtsljMe0ZPqcXxvd)  
+![Imagen](https://drive.google.com/uc?export=view&id=1vhZTqvbe2MxUTSLRLtsljMe0ZPqcXxvd)  
 
 + Actualmente
 
-![](https://drive.google.com/uc?export=view&id=1vhZTqvbe2MxUTSLRLtsljMe0ZPqcXxvd)  
+![Imagen](https://drive.google.com/uc?export=view&id=1vhZTqvbe2MxUTSLRLtsljMe0ZPqcXxvd)  
 
 Ver referencia a [Práctica 2 (Anterior)](https://github.com/alu0101163970/Practica_2_II2122.git) para consultar y comparar los cambios.
 

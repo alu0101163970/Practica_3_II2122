@@ -23,7 +23,7 @@ Para esta práctica se ha continuado la el trabajo realizado en la práctica ant
 Y se ha añadido el script `FollowPlayer.cs` para que la cámara siga al jugador desde una perspectiva de tercera persona. Aparte de varios aspectos visuales.  
 + Anteriormente
 
-![Imagen](./img/Practica2.gif))  
+![Imagen](./img/Practica2.gif)  
 
 + Actualmente
 

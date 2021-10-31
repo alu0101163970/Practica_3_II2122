@@ -27,7 +27,7 @@ Y se ha añadido el script `FollowPlayer.cs` para que la cámara siga al jugador
 
 + Actualmente
 
-![Imagen](https://drive.google.com/uc?export=view&id=1vhZTqvbe2MxUTSLRLtsljMe0ZPqcXxvd.gif)  
+![Imagen](./img/Practica3Inicio.gif)  
 
 Ver referencia a [Práctica 2 (Anterior)](https://github.com/alu0101163970/Practica_2_II2122.git) para consultar y comparar los cambios.
 

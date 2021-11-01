@@ -225,4 +225,4 @@ Aquí observamos el uso del `Debug.DrawRay` que son los rayos verdes que que tra
 
 + Implementar un controlador que mueva el objeto con wasd  
 
-
+Este controlador ya esta implementado desde la práctica anterior. Se encuentra en el fichero `Character_Controller_Propia.cs`.
